@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SchemeUserState</key>
+	<dict>
+		<key>NebulitonApp.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>1</integer>
+		</dict>
+		<key>NebulitonWatchApp Watch App.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>2</integer>
+		</dict>
+		<key>NebulitonWatchApp Watch AppTests.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>4</integer>
+		</dict>
+		<key>NebulitonWatchAppExtension Watch App.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>3</integer>
+		</dict>
+		<key>NebulitonWidgetExtension.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>0</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>CDB152E92DCFA95000F9B022</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>CDB152F52DCFA95100F9B022</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>CDB152FF2DCFA95100F9B022</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>CDBB7A952DCEBF21008B7034</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>CDC078E42DCD6952004882F9</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+	</dict>
+</dict>
+</plist>
